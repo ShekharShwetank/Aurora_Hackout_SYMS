@@ -19,9 +19,10 @@ This repository houses the source code and resources for our Geomagnetic Storm P
 ## Team - SYMS
 
 - 🧑‍💻 Shekhar Shwetank
-- 🧑‍💻 Yuganshu Kumar 
 - 👩‍💻 Madhurima Nayak
 - 👩‍💻 Sarvani K
+- 🧑‍💻 Yuganshu Kumar 
+
 
 ## Getting Started ✈️
 
